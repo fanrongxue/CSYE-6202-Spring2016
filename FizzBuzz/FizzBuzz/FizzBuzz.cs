@@ -14,18 +14,23 @@
                
                 result ="1";
             }
-            else if (number % 3 == 0)
+            else if (number %15==0)
             {
 
-                result = "Fizz";
+                result = "FizzBuzz";
             }
-            else if (number % 5 == 0)
+
+           else if (number % 15 != 0)
             {
-                result = "Buzz";
-            }
-            else if (number % 15 == 0)
-            {
-                result = " FIzzBuzz";
+                 if (number % 3 == 0)
+                {
+
+                    result = "Fizz";
+                }
+                else if (number % 5 == 0)
+                {
+                    result = "Buzz";
+                }
             }
             // your solution/implementation should go in here
 
