@@ -5,10 +5,31 @@
 		public string RunFizzBuzz(int number)
 		{
 			string result = number.ToString();
+            if (number == 0)
+            {               
+                result = "0";
+            }
+            else if (number == 1)
+            {
+               
+                result ="1";
+            }
+            else if (number % 3 == 0)
+            {
 
-			// your solution/implementation should go in here
+                result = "Fizz";
+            }
+            else if (number % 5 == 0)
+            {
+                result = "Buzz";
+            }
+            else if (number % 15 == 0)
+            {
+                result = " FIzzBuzz";
+            }
+            // your solution/implementation should go in here
 
-			return result;
+            return result;
 		}
 	}
 }
