@@ -5,7 +5,7 @@ VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAY__ROLL", "PAY__ROLL\PAY__ROLL.csproj", "{2C292FF0-0A5C-4D1B-B56E-48DECD163C2F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PAYROLL_test", "PAYROLL_test\PAYROLL_test.csproj", "{01553CB6-9937-4336-8B74-25A6FCE2585C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestProject2.Test", "UnitTestProject2\UnitTestProject2.Test.csproj", "{C3FDA905-E8AE-48C8-8E10-7170ABC95C12}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{2C292FF0-0A5C-4D1B-B56E-48DECD163C2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2C292FF0-0A5C-4D1B-B56E-48DECD163C2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2C292FF0-0A5C-4D1B-B56E-48DECD163C2F}.Release|Any CPU.Build.0 = Release|Any CPU
-		{01553CB6-9937-4336-8B74-25A6FCE2585C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{01553CB6-9937-4336-8B74-25A6FCE2585C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{01553CB6-9937-4336-8B74-25A6FCE2585C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{01553CB6-9937-4336-8B74-25A6FCE2585C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3FDA905-E8AE-48C8-8E10-7170ABC95C12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3FDA905-E8AE-48C8-8E10-7170ABC95C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3FDA905-E8AE-48C8-8E10-7170ABC95C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3FDA905-E8AE-48C8-8E10-7170ABC95C12}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
