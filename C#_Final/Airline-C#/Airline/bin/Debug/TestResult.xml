@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Apple\Desktop\Airline-C#\Airline\bin\Debug\Airline.exe" total="4" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-04-29" time="07:45:22">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.5485" os-version="Microsoft Windows NT 6.1.7601 Service Pack 1" platform="Win32NT" cwd="C:\Users\Apple\Desktop\NUnit-2.6.3-Airline\bin" machine-name="APPLE-PC" user="Apple" user-domain="Apple-PC" />
+  <culture-info current-culture="en-US" current-uiculture="zh-CN" />
+  <test-suite type="Assembly" name="C:\Users\Apple\Desktop\Airline-C#\Airline\bin\Debug\Airline.exe" executed="True" result="Success" success="True" time="0.110" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="Airline" executed="True" result="Success" success="True" time="0.109" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="MyTest" executed="True" result="Success" success="True" time="0.107" asserts="0">
+            <results>
+              <test-case name="Airline.MyTest.AddLogTest" executed="True" result="Success" success="True" time="0.025" asserts="1" />
+              <test-case name="Airline.MyTest.LoginTest" executed="True" result="Success" success="True" time="0.018" asserts="1" />
+              <test-case name="Airline.MyTest.QueryFlightsTest" executed="True" result="Success" success="True" time="0.012" asserts="1" />
+              <test-case name="Airline.MyTest.UpdateFlightsTest" executed="True" result="Success" success="True" time="0.016" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

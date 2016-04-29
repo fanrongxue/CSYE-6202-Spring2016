@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\Win\Desktop\极致\3已完成\网站\201604121345-750-图图夏夏爱吃肉(莫碎生)-asp.net机票预订\成品\winform\NUit\Airline.nunit" total="4" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2016-04-20" time="08:37:56">
+  <environment nunit-version="2.6.3.13283" clr-version="2.0.50727.8689" os-version="Microsoft Windows NT 6.2.9200.0" platform="Win32NT" cwd="C:\Users\Win\Desktop\极致\3已完成\网站\201604121345-750-图图夏夏爱吃肉(莫碎生)-asp.net机票预订\成品\winform\NUit" machine-name="WIN" user="Win" user-domain="WIN" />
+  <culture-info current-culture="zh-CN" current-uiculture="zh-CN" />
+  <test-suite type="Project" name="C:\Users\Win\Desktop\极致\3已完成\网站\201604121345-750-图图夏夏爱吃肉(莫碎生)-asp.net机票预订\成品\winform\NUit\Airline.nunit" executed="True" result="Success" success="True" time="0.850" asserts="0">
+    <results>
+      <test-suite type="Assembly" name="C:\Users\Win\Desktop\极致\3已完成\网站\201604121345-750-图图夏夏爱吃肉(莫碎生)-asp.net机票预订\成品\winform\NUit\..\..\..\..\..\..\..\Airline\Airline\bin\Debug\Airline.exe" executed="True" result="Success" success="True" time="0.842" asserts="0">
+        <results>
+          <test-suite type="Namespace" name="Airline" executed="True" result="Success" success="True" time="0.842" asserts="0">
+            <results>
+              <test-suite type="TestFixture" name="MyTest" executed="True" result="Success" success="True" time="0.826" asserts="0">
+                <results>
+                  <test-case name="Airline.MyTest.AddLogTest" executed="True" result="Success" success="True" time="0.678" asserts="1" />
+                  <test-case name="Airline.MyTest.LoginTest" executed="True" result="Success" success="True" time="0.108" asserts="1" />
+                  <test-case name="Airline.MyTest.QueryFlightsTest" executed="True" result="Success" success="True" time="0.011" asserts="1" />
+                  <test-case name="Airline.MyTest.UpdateFlightsTest" executed="True" result="Success" success="True" time="0.003" asserts="1" />
+                </results>
+              </test-suite>
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

@@ -1,0 +1,48 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="1095" measuredH="519" mockupW="811" mockupH="458">
+  <controls>
+    <control controlID="148" controlTypeID="com.balsamiq.mockups::Image" x="362" y="135" w="304" h="310" measuredW="369" measuredH="359" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>../../../../../../../%25E6%259E%2581%25E8%2587%25B4/3%25E5%25B7%25B2%25E5%25AE%258C%25E6%2588%2590/%25E7%25BD%2591%25E7%25AB%2599/201604121345-750-%25E5%259B%25BE%25E5%259B%25BE%25E5%25A4%258F%25E5%25A4%258F%25E7%2588%25B1%25E5%2590%2583%25E8%2582%2589%28%25E8%258E%25AB%25E7%25A2%258E%25E7%2594%259F%29-asp.net%25E6%259C%25BA%25E7%25A5%25A8%25E9%25A2%2584%25E8%25AE%25A2/%25E6%2588%2590%25E5%2593%2581/winform/Balsamiq/assets/flight.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="156" controlTypeID="com.balsamiq.mockups::TitleWindow" x="284" y="61" w="811" h="458" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <dragger>true</dragger>
+        <text>User%20Main%20Window</text>
+        <topheight>27</topheight>
+      </controlProperties>
+    </control>
+    <control controlID="158" controlTypeID="com.balsamiq.mockups::Link" x="945" y="426" w="-1" h="-1" measuredW="41" measuredH="19" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logout</text>
+      </controlProperties>
+    </control>
+    <control controlID="159" controlTypeID="com.balsamiq.mockups::Image" x="792" y="135" w="185" h="96" measuredW="526" measuredH="274" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <src>./assets/logo.png</src>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="160" controlTypeID="com.balsamiq.mockups::Label" x="830" y="255" w="-1" h="-1" measuredW="94" measuredH="22" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <size>14</size>
+        <text>Welcome%2C%20John</text>
+      </controlProperties>
+    </control>
+    <control controlID="161" controlTypeID="com.balsamiq.mockups::Label" x="783" y="297" w="-1" h="-1" measuredW="203" measuredH="21" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>You%20can%20see%20and%20book%20flights%20here.</text>
+      </controlProperties>
+    </control>
+    <control controlID="162" controlTypeID="com.balsamiq.mockups::Link" x="880" y="398" w="-1" h="-1" measuredW="106" measuredH="19" zOrder="6" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Change%20Password</text>
+      </controlProperties>
+    </control>
+    <control controlID="164" controlTypeID="com.balsamiq.mockups::MenuBar" x="284" y="86" w="811" h="21" measuredW="166" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Flights%2C%20MyBookings</text>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>

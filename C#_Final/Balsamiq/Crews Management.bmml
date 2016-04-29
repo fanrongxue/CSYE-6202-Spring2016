@@ -1,0 +1,131 @@
+<mockup version="1.0" skin="wireframe" fontFace="Balsamiq Sans" measuredW="977" measuredH="516" mockupW="609" mockupH="466">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::TitleWindow" x="368" y="50" w="609" h="466" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Crews%20Manage</text>
+      </controlProperties>
+    </control>
+    <control controlID="1" controlTypeID="com.balsamiq.mockups::SearchBox" x="394" y="88" w="-1" h="-1" measuredW="120" measuredH="26" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>search</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Button" x="630" y="89" w="71" h="24" measuredW="45" measuredH="24" zOrder="2" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Edit</text>
+      </controlProperties>
+    </control>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::Button" x="715" y="89" w="71" h="24" measuredW="60" measuredH="24" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Delete</text>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Button" x="800" y="89" w="71" h="24" measuredW="51" measuredH="24" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Save</text>
+      </controlProperties>
+    </control>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Button" x="885" y="89" w="71" h="24" measuredW="63" measuredH="24" zOrder="5" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Cancel</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Canvas" x="394" y="130" w="562" h="27" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Canvas" x="394" y="157" w="562" h="322" measuredW="100" measuredH="70" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <color>13421772</color>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Label" x="440" y="165" w="-1" h="-1" measuredW="29" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>c001</text>
+      </controlProperties>
+    </control>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Label" x="576" y="165" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="9" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>MU564</text>
+      </controlProperties>
+    </control>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="864" y="165" w="-1" h="-1" measuredW="47" measuredH="21" zOrder="10" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Captain</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::HRule" x="394" y="186" w="562" h="-1" measuredW="100" measuredH="10" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Label" x="709" y="133" w="-1" h="-1" measuredW="66" measuredH="21" zOrder="12" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CrewName</text>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Label" x="432" y="133" w="-1" h="-1" measuredW="47" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>CrewNo</text>
+      </controlProperties>
+    </control>
+    <control controlID="14" controlTypeID="com.balsamiq.mockups::Label" x="574" y="133" w="-1" h="-1" measuredW="48" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>FlightNo</text>
+      </controlProperties>
+    </control>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="874" y="133" w="-1" h="-1" measuredW="26" measuredH="21" zOrder="15" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Role</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="711" y="165" w="-1" h="-1" measuredW="63" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Ron%20Brown</text>
+      </controlProperties>
+    </control>
+    <control controlID="24" controlTypeID="__group__" x="394" y="201" w="562" h="31" measuredW="562" measuredH="31" zOrder="17" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="46" y="0" w="-1" h="-1" measuredW="29" measuredH="21" zOrder="0" locked="false" isInGroup="24">
+          <controlProperties>
+            <text>c001</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="182" y="0" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="1" locked="false" isInGroup="24">
+          <controlProperties>
+            <text>MU564</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="470" y="0" w="-1" h="-1" measuredW="47" measuredH="21" zOrder="2" locked="false" isInGroup="24">
+          <controlProperties>
+            <text>Captain</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="21" w="562" h="-1" measuredW="100" measuredH="10" zOrder="3" locked="false" isInGroup="24"/>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="317" y="0" w="-1" h="-1" measuredW="63" measuredH="21" zOrder="4" locked="false" isInGroup="24">
+          <controlProperties>
+            <text>Ron%20Brown</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="25" controlTypeID="__group__" x="394" y="238" w="562" h="31" measuredW="562" measuredH="31" zOrder="18" locked="false" isInGroup="-1">
+      <groupChildrenDescriptors>
+        <control controlID="0" controlTypeID="com.balsamiq.mockups::Label" x="46" y="0" w="-1" h="-1" measuredW="29" measuredH="21" zOrder="0" locked="false" isInGroup="25">
+          <controlProperties>
+            <text>c001</text>
+          </controlProperties>
+        </control>
+        <control controlID="1" controlTypeID="com.balsamiq.mockups::Label" x="182" y="0" w="-1" h="-1" measuredW="44" measuredH="21" zOrder="1" locked="false" isInGroup="25">
+          <controlProperties>
+            <text>MU564</text>
+          </controlProperties>
+        </control>
+        <control controlID="2" controlTypeID="com.balsamiq.mockups::Label" x="470" y="0" w="-1" h="-1" measuredW="47" measuredH="21" zOrder="2" locked="false" isInGroup="25">
+          <controlProperties>
+            <text>Captain</text>
+          </controlProperties>
+        </control>
+        <control controlID="3" controlTypeID="com.balsamiq.mockups::HRule" x="0" y="21" w="562" h="-1" measuredW="100" measuredH="10" zOrder="3" locked="false" isInGroup="25"/>
+        <control controlID="4" controlTypeID="com.balsamiq.mockups::Label" x="317" y="0" w="-1" h="-1" measuredW="63" measuredH="21" zOrder="4" locked="false" isInGroup="25">
+          <controlProperties>
+            <text>Ron%20Brown</text>
+          </controlProperties>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</mockup>
